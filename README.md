@@ -59,16 +59,6 @@ I am a results-driven **Full-Stack Laravel & PHP Specialist** with a deep focus 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <!-- Alternative Stats Card (Anurag Hazra's fallback or GitHub Readme Stats Alternative) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mysongbd&show_icons=true&theme=dark&hide_border=true" alt="Alam's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mysongbd&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 <p align="center">
   <i>⭐ I focus on fixing real Laravel problems, building scalable SaaS, and keeping production systems stable.</i>
 </p>
